@@ -1,2 +1,7 @@
-# python_lol_internet_worm
+﻿# python_lol_internet_worm
 Python爬虫爬取英雄联盟全皮肤
+
+注意：可能会被识别为爬虫进而远程关闭连接，要自己加一些反反爬策略。
+一个简单粗暴的法子：利用第一次获取的name_list，每次停到那里就删到哪里，分块完成。
+
+附MF的皮肤
